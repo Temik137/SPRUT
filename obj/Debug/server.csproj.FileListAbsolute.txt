@@ -1,0 +1,26 @@
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\bin\Debug\server.pdb
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\obj\Debug\server.exe
+c:\users\snegirev_a\documents\visual studio 2015\Projects\server\server\obj\Debug\server.pdb
+D:\Non_work\SPRUT\Раб\server\server\bin\Debug\server.exe.config
+D:\Non_work\SPRUT\Раб\server\server\obj\Debug\server.exe
+D:\Non_work\SPRUT\Раб\server\server\obj\Debug\server.pdb
+D:\Non_work\SPRUT\Раб\server\server\bin\Debug\server.exe
+D:\Non_work\SPRUT\Раб\server\server\bin\Debug\server.pdb
+D:\Non_work\SPRUT\Раб\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\Non_work\SPRUT\Раб\server\server\obj\Debug\server.Form1.resources
+D:\Non_work\SPRUT\Раб\server\server\obj\Debug\server.Properties.Resources.resources
+D:\Non_work\SPRUT\Раб\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\bin\Debug\server.exe.config
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\obj\Debug\server.exe
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\obj\Debug\server.pdb
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\bin\Debug\server.exe
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\bin\Debug\server.pdb
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\obj\Debug\server.Form1.resources
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\sprut\server\server\obj\Debug\server.csproj.GenerateResource.Cache

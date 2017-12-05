@@ -1,0 +1,8 @@
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\bin\Release\server.exe.config
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\bin\Release\server.exe
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\bin\Release\server.pdb
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.Form1.resources
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.csproj.GenerateResource.Cache
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.exe
+C:\Users\Snegirev_A\Documents\Visual Studio 2015\Projects\server\server\obj\Release\server.pdb
